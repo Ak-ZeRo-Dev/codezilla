@@ -4,4 +4,4 @@
 
 ### HTML & CSS
 
-### website Link: https://thunderous-faun-b8ee14.netlify.app/
+### website Link: https://ak-zero0.github.io/codezilla/
